@@ -1,4 +1,0 @@
-para ejecutar integral_par 
-
-gcc -fopenmp integral_par.c -o integral -lm 
-./integral
